@@ -26,7 +26,7 @@ Neste projeto, empregamos as seguintes tecnologias principais:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logoColor=white)
-![Botocore](https://img.shields.io/badge/Botocore-232F3E?style=for-the-badge&logoColor=white
+![Botocore](https://img.shields.io/badge/Botocore-232F3E?style=for-the-badge&logoColor=white)
 ![Tabulate](https://img.shields.io/badge/Tabulate-FF6600?style=for-the-badge&logoColor=white)
 
 
