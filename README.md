@@ -15,8 +15,8 @@ O conjunto de dados utilizado neste projeto contém informações detalhadas sob
 
 Neste projeto, empregamos as seguintes tecnologias principais:
 
-    Amazon Web Services S3: Utilizamos o serviço de armazenamento em nuvem AWS S3 para hospedar nosso arquivo de banco de dados, permitindo seu carregamento em um ambiente Jupyter Notebook para iniciar a análise de dados.
-    SQL: Utilizamos a linguagem SQL para execução de consultas e agregação dos dados. Através de uma interface virtual integrada no Jupyter Notebook, realizamos consultas diretamente no ambiente, facilitando a análise e tornando-a mais eficiente e intuitiva.
+- Amazon Web Services S3: Utilizamos o serviço de armazenamento em nuvem AWS S3 para hospedar nosso arquivo de banco de dados, permitindo seu carregamento em um ambiente Jupyter Notebook para iniciar a análise de dados.
+- SQL: Utilizamos a linguagem SQL para execução de consultas e agregação dos dados. Através de uma interface virtual integrada no Jupyter Notebook, realizamos consultas diretamente no ambiente, facilitando a análise e tornando-a mais eficiente e intuitiva.
 
 
 # Ferramentas Utilizadas
