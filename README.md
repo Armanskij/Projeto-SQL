@@ -21,12 +21,17 @@ Neste projeto, empregamos as seguintes tecnologias principais:
 
 # Ferramentas Utilizadas
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logoColor=white)
-![Botocore](https://img.shields.io/badge/Botocore-232F3E?style=for-the-badge&logoColor=white)
-![Tabulate](https://img.shields.io/badge/Tabulate-FF6600?style=for-the-badge&logoColor=white)
+[![JSON](https://img.shields.io/badge/JSON-1.0-blue.svg)](https://www.json.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-3.35.5-blue.svg)](https://sqlite.org/)
+[![StringIO](https://img.shields.io/badge/StringIO-1.0-blue.svg)](https://docs.python.org/3/library/io.html#io.StringIO)
+[![Boto3](https://img.shields.io/badge/Boto3-1.18.69-blue.svg)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue.svg)](https://pandas.pydata.org/)
+[![Requests](https://img.shields.io/badge/Requests-2.26.0-blue.svg)](https://docs.python-requests.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-blue.svg)](https://seaborn.pydata.org/)
+[![Botocore](https://img.shields.io/badge/Botocore-1.21.69-blue.svg)](https://botocore.amazonaws.com/v1/documentation/api/latest/index.html)
+[![IPython](https://img.shields.io/badge/IPython-7.26.0-blue.svg)](https://ipython.org/)
+[![Tabulate](https://img.shields.io/badge/Tabulate-0.8.9-blue.svg)](https://pypi.org/project/tabulate/)
+
 
 
