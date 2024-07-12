@@ -1,6 +1,6 @@
 # Projeto-SQL
 
-Projeto de análise de dados usando o SQLLite em conjunto com o AWS S3.
+Projeto de análise de dados usando o SQLite em conjunto com o AWS S3.
 
 Este repositório contém um projeto de análise de dados de clientes de cartão de crédito, utilizando ferramentas de armazenamento em nuvem da Amazon, linguagem SQL para manipulação e análise dos dados, e bibliotecas Python para visualização dos resultados.
 # Objetivo do Projeto
